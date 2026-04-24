@@ -1,5 +1,5 @@
 {
   "name": "learning-guide",
   "description": "Learning-focused subagent for understanding codebases, documents, and technical systems",
-  "version": "0.1.3"
+  "version": "0.1.4"
 }
