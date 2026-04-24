@@ -1,0 +1,11 @@
+{
+  "name": "subagents",
+  "owner": { "name": "yueh-ai" },
+  "plugins": [
+    {
+      "name": "learning-guide",
+      "source": "./learning-guide",
+      "description": "Learning-focused subagent for understanding codebases, documents, and technical systems"
+    }
+  ]
+}
